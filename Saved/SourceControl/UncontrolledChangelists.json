@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"M:/MegaJam/Content/Weapons/Effects/Textures/Flipbooks/SmokeSwirl_3_Flipbook_CHANNELPACK.uasset",
+				"M:/MegaJam/Content/Weapons/Effects/Particles/Weapons/NS_WeaponFire.uasset",
+				"M:/MegaJam/Content/Weapons/Effects/Particles/Weapons/NS_WeaponFire_MuzzleFlash_Rifle.uasset",
+				"M:/MegaJam/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"M:/MegaJam/Content/Weapons/Effects/Textures/Flipbooks/smoke.uasset"
+			]
+		}
+	]
+}
